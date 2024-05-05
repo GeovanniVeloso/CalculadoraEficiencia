@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculadoraEficiencia</string>
+    <string name="cons">Insira o consumo do seu veículo</string>
+    <string name="cap">Insira o combustível no tanque</string>
+    <string name="res"> </string>
+    <string name="calc">Calcular</string>
+</resources>
